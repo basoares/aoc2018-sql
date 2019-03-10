@@ -10,5 +10,7 @@ This repo is my personal attempt at solving **some** of the [Advent of Code 2018
 | --------|-----------------------------------------------|--------------------------------------------- |
 |    1    | Chronal Calibration                           |  [\[Code\]](https://github.com/basoares/aoc2018-sql/tree/master/day01) [\[AoC\]](http://adventofcode.com/2018/day/1) |
 |    2    | Inventory Management System                   |  [\[Code\]](https://github.com/basoares/aoc2018-sql/tree/master/day02) [\[AoC\]](http://adventofcode.com/2018/day/2) |
-|
+|    3    | No Matter How You Slice It                    |  [\[Code\]](https://github.com/basoares/aoc2018-sql/tree/master/day03) [\[AoC\]](http://adventofcode.com/2018/day/3) |
+
+
 
